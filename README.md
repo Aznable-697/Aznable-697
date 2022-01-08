@@ -1,5 +1,9 @@
 # hello-world
 
 My First Repository
-
-Pur3 here, just downloaded and installed unreal engine 4. and i'm excited to try and make my first game. while it installed I saw this. So i decided to venture on.
+- 👋 Hi, I’m @MattW328
+- 👀 I’m interested in ...C#, C++, HTML, CSS, JS, Unreal etc.
+- 🌱 I’m currently learning ... Git,GitHub, C#, C++, HTML, CSS,JS
+- 💞️ I’m looking to collaborate on ...something to get my feet wet.
+- 📫 How to reach me ...Email me at mattwhiteker@gmail.com
+&#9752;
